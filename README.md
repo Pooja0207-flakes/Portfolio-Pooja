@@ -1,73 +1,79 @@
-# Welcome to your Lovable project
+# 🌟 Portfolio Projects
 
-## Project info
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/Pooja0207-flakes/Portfolio-Pooja)](https://github.com/Pooja0207-flakes/Portfolio-Pooja)
+[![GitHub License](https://img.shields.io/github/license/Pooja0207-flakes/Portfolio-Pooja)](https://github.com/Pooja0207-flakes/Portfolio-Pooja/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/Pooja0207-flakes/Portfolio-Pooja)](https://github.com/Pooja0207-flakes/Portfolio-Pooja/stargazers)
 
-**URL**: https://lovable.dev/projects/40966675-e70f-4519-803d-19653cd9cc5a
+A showcase of my **best UI/UX and web development projects** demonstrating creativity, design, and development skills. This portfolio highlights interactive web applications and dashboards built with modern web technologies.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🎯 Project Overview
 
-**Use Lovable**
+This portfolio features several projects including:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/40966675-e70f-4519-803d-19653cd9cc5a) and start prompting.
+- **E-Commerce Dashboard** 🛍️ – Admin dashboard with product, order, and analytics management.  
+- **Tourist Spot Website** 🌍 – Explore destinations, plan trips, and discover hidden gems.  
+- **To-Do List** ✅ – Simple and efficient daily task manager.  
+- **Event Management System** 🎉 – Manage and organize events seamlessly.  
+- **Hospital Appointment Booking** 🏥 – Schedule and manage doctor appointments easily.  
+- **Creative Portfolio Template** 🎨 – Elegant portfolio template to showcase creative work.
 
-Changes made via Lovable will be committed automatically to this repo.
+Each project demonstrates **modern UI/UX design principles**, responsive layouts, and smooth interactive experiences.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📸 Screenshots
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+| Project | Screenshot |
+|---------|------------|
+| E-Commerce Dashboard | ![E-Commerce Dashboard](./screenshots/ecommerce-dashboard.png) |
+| Tourist Spot Website | ![Tourist Spot Website](./screenshots/tourist-website.png) |
+| To-Do List | ![To-Do List](./screenshots/todo-list.png) |
+| Event Management System | ![Event Management](./screenshots/event-management.png) |
+| Hospital Appointment Booking | ![Hospital Booking](./screenshots/hospital-booking.png) |
+| Creative Portfolio Template | ![Portfolio Template](./screenshots/portfolio-template.png) |
 
-Follow these steps:
+> Note: Add your project screenshots in a `screenshots/` folder in your repository.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 Features
 
-# Step 3: Install the necessary dependencies.
-npm i
+- Fully responsive design for **desktop, tablet, and mobile**
+- Interactive hover effects and animations
+- Modern **React.js** components and **Tailwind CSS** styling
+- Reusable UI components for scalability
+- Clean and modular code structure for easy maintenance
+- Easy integration for future projects
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🛠️ Tech Stack
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**Frontend:**  
+- React.js  
+- Tailwind CSS  
+- Shadcn/ui (UI components)  
+- Lucide-react (Icons)
 
-**Use GitHub Codespaces**
+**Version Control:**  
+- Git & GitHub  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🔗 Live Demo
 
-This project is built with:
+You can view live demos for some projects here:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- [E-Commerce Dashboard](https://github.com/Pooja0207-flakes/UI-UX-EcomDemo)  
+- [Other projects](#) (Live demo coming soon)
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/40966675-e70f-4519-803d-19653cd9cc5a) and click on Share -> Publish.
+## 💻 Getting Started
 
-## Can I connect a custom domain to my Lovable project?
+Clone the repository:
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+```bash
+git clone https://github.com/Pooja0207-flakes/Portfolio-Pooja.git
